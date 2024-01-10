@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-12-24T08:34:23Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Line_follower"
+        },
+        "Owner": "Gaurav Tale <2020bec050@sggs.ac.in>",
+        "Size": {
+            "X": 52.05,
+            "Y": 49.2
+        }
+    }
+}

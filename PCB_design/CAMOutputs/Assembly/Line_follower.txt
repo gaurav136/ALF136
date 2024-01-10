@@ -1,0 +1,8 @@
+Partlist exported from /home/dark-horse/EAGLE/projects/Line_follwer/Line_follower/Line_follower.sch at 24/12/22 2:04 PM
+
+Qty Value Device     Package Parts         Description      POPULARITY
+2         PINHD-1X15 1X15    JP1, JP2      PIN HEADER       4         
+3         PINHD-1X2  1X02    JP5, JP6, JP7 PIN HEADER       98        
+1         PINHD-1X6  1X06    JP4           PIN HEADER       79        
+1         PINHD-1X8  1X08    JP3           PIN HEADER       67        
+1   AB9V  AB9V       AB9V    G1            9-V BATTERY CLIP 32        
