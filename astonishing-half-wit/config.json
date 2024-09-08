@@ -1,0 +1,1 @@
+{"threshold_max": 255, "threshold": 160, "threshold_min": 0, "blur_size": 8, "area_max": 100000, "area_min": 3360, "block_size": 50, "c": 2, "adaptive_threshold": true, "quad_precision": 1.0, "saved_time": 1680000431.530958}
